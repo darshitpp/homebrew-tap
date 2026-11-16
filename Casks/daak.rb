@@ -1,8 +1,8 @@
 # DRAFT cask for darshitpp/homebrew-tap (Casks/daak.rb).
 # scripts/release.sh sets version and sha256 from the real .dmg.
 cask "daak" do
-  version "0.1.5"
-  sha256 "b1f6eccb45bfb9a0dd8a2b486b367e7894de0e5079495734c3895c4f2e0a7fb3"
+  version "0.1.6"
+  sha256 "23ea5f67b90fb0b8c6439ca21a1d02b1d46abe52b2e0c72883647d8d563ef55a"
 
   url "https://github.com/darshitpp/daak/releases/download/v#{version}/Daak-#{version}.dmg"
   name "Daak"
